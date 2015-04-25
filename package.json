@@ -1,0 +1,19 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cylon-firmata": "^0.20.0",
+    "moment": "^2.10.2",
+    "node-osc": "^0.3.0",
+    "readline": "0.0.7",
+    "util": "^0.10.3"
+  }
+}
